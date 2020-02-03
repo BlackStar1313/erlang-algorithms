@@ -8,7 +8,6 @@
 %%%-------------------------------------------------------------------
 -module(ring).
 -author("Njoyim Peguy").
-
 %% API
 -export([run/3, starting_process/6, running_processes/5, collectData/1]).
 
